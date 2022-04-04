@@ -1,5 +1,10 @@
-### Hi there 👋
+![nna (1)](https://user-images.githubusercontent.com/97704332/161547091-ea6100d6-32ba-4cf7-b5ad-6fc6ce7e7641.png)
 
+### About Me 👋
+
+I am a self-taught developer and recent law graduate. I discovered my passion for programming while I took a break from law and studied Computer Science for a year. Since then, I have been honing my skills as a web developer and started my own company specialising in delivering solutions to [Shopify](https://www.shopify.co.uk/) business owners' problems. The solutions often entail working with the Shopify API to develop custom applications or editting the front-end source code that match each client's needs. I am energised by solving complex problems and learning new techonologies and thus, I am currently working towards becoming a full-stack developer.
+
+[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=annadevelops&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **annadevelops/annadevelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

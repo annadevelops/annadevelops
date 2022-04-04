@@ -4,6 +4,8 @@
 
 I am a self-taught developer and recent law graduate. I discovered my passion for programming while I took a break from law and studied Computer Science for a year. Since then, I have been honing my skills as a web developer and started my own company specialising in delivering solutions to [Shopify](https://www.shopify.co.uk/) business owners' problems. The solutions often entail working with the Shopify API to develop custom applications or editting the front-end source code that match each client's needs. I am energised by solving complex problems and learning new techonologies and thus, I am currently working towards becoming a full-stack developer.
 
+![](https://img.shields.io/static/v1?message=css3&logo=css3&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=for-the-badge)
+
 [![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=annadevelops&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **annadevelops/annadevelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

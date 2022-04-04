@@ -22,7 +22,7 @@ I am a self-taught developer and recent law graduate. I discovered my passion fo
 
 
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=annadevelops&show_icons=true&title_color=D0684F&hide_title=true&icon_color=D0684F&count_private=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annadevelops&layout=compact&title_color=D0684F)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annadevelops&title_color=D0684F)
 ![Anna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=annadevelops&title_color=D0684F&text_color=D0684F)
 
 <!--

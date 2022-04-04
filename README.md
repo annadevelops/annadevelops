@@ -1,4 +1,5 @@
-![nna (1)](https://user-images.githubusercontent.com/97704332/161547091-ea6100d6-32ba-4cf7-b5ad-6fc6ce7e7641.png)
+
+![nna (2)](https://user-images.githubusercontent.com/97704332/161563253-670d1378-bb7b-4de0-b84e-37de74381d68.png)
 
 ### About Me 👋
 
@@ -15,7 +16,7 @@ I am a self-taught developer and recent law graduate. I discovered my passion fo
 
 ### My grind & sweats 💪
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annadevelops&repo=github-finder&bg_color=D0684F&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/annadevelops/github-finder)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annadevelops&repo=feedback-app&bg_color=D0684F&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/annadevelops/feedback-app)
+
 
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=annadevelops&show_icons=true&title_color=D0684F&hide_title=true&icon_color=D0684F)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annadevelops&layout=compact&title_color=D0684F)

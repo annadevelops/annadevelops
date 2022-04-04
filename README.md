@@ -13,8 +13,10 @@ I am a self-taught developer and recent law graduate. I discovered my passion fo
 ![](https://img.shields.io/static/v1?message=css3&logo=css3&labelColor=D0684F&color=1182c3&logoColor=white&label=%20&style=for-the-badge)
 ![](https://img.shields.io/static/v1?message=html5&logo=html5&labelColor=D0684F&color=E44F26&logoColor=white&label=%20&style=for-the-badge)
 
-
 ### My grind & sweats 💪
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annadevelops&repo=github-finder&bg_color=D0684F&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/annadevelops/github-finder)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annadevelops&repo=feedback-app&bg_color=D0684F&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/annadevelops/feedback-app)
+
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=annadevelops&show_icons=true&title_color=D0684F&hide_title=true&icon_color=D0684F)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annadevelops&layout=compact&title_color=D0684F)
 

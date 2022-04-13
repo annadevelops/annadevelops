@@ -16,13 +16,14 @@ I am a self-taught developer and recent law graduate. I discovered my passion fo
 
 ### My grind & sweats 💪
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annadevelops&repo=house-marketplace&bg_color=D0684F&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/annadevelops/house-marketplace)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annadevelops&repo=github-finder&bg_color=D0684F&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/annadevelops/github-finder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annadevelops&repo=todo&bg_color=D0684F&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/annadevelops/todo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annadevelops&repo=feedback-app&bg_color=D0684F&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/annadevelops/feedback-app) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annadevelops&repo=keepers&bg_color=D0684F&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/annadevelops/keepers)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annadevelops&title_color=D0684F&layout=compact&card_width=220) ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=annadevelops&show_icons=true&title_color=D0684F&hide_title=true&icon_color=D0684F&count_private=true) 
-![Anna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@annadevelops&title_color=D0684F&text_color=D0684F)
+![Anna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=annadevelops&title_color=D0684F&text_color=D0684F)
 
 <!--
 **annadevelops/annadevelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

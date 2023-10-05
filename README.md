@@ -2,8 +2,7 @@
 ![nna (2)](https://user-images.githubusercontent.com/97704332/161563253-670d1378-bb7b-4de0-b84e-37de74381d68.png)
 
 ### About Me 👋
-
-I am a self-taught developer and recent law graduate. I discovered my passion for programming while I took a break from law and studied Computer Science for a year. Since then, I have been honing my skills as a web developer and started my own company specialising in delivering solutions to [Shopify](https://www.shopify.co.uk/) business owners' problems. The solutions often entail working with the Shopify API to develop custom applications or editting the front-end source code that match each client's needs. I am energised by solving complex problems and learning new techonologies and thus, I am currently working towards becoming a full-stack developer.
+I'm a dynamic full-stack developer with a unique blend of legal and technical background. My journey in tech began during a hiatus from law, where I delved into Computer Science for a year. This exploration turned into a deep-rooted passion, propelling me into the world of web development. My specialty lies in crafting tailored solutions for eCommerces on Shopify and Shopify Plus, often diving deep into the Shopify API to create custom applications or refining the front-end to align perfectly with each client's vision. There's nothing more exhilarating for me than unraveling complex challenges and immersing myself in the latest technologies. With a balance of analytical legal thinking and innovative tech solutions, I bring a unique perspective to the table that can be an asset to any team!
 
 ![](https://img.shields.io/static/v1?message=mongodb&logo=mongodb&labelColor=D0684F&color=47A24B&logoColor=white&label=%20&style=for-the-badge)
 ![](https://img.shields.io/static/v1?message=express&logo=express&labelColor=D0684F&color=000000&logoColor=white&label=%20&style=for-the-badge)
